@@ -1,0 +1,27 @@
+body {
+    background-color: #0f437f !important;
+}
+
+.form-label {
+    color: #dc3545;
+    font-weight: 600;
+}
+
+.btn-voltar {
+    font-size: 1.5em;
+    color: #dc3545;
+    margin: 5% 9%;
+}
+
+.form-cadastro {
+    margin-top: 0;
+    padding: 0 10%;
+}
+
+.titulo-pagina {
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-bottom: 15%;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+
+
+
+.titulo-pagina {
+    color: #fff;
+    text-align: center;
+    font-size: 2.2em;
+}
+    
+body {
+    background-color: #0f437f !important;
+}
+
+.form-novo-peso {
+    margin-top: 20%;
+    padding: 0 7%;
+}
+
+
+.form-label {
+    color: #dc3545;
+    font-weight: 600;
+}
+
+.btn-voltar {
+    font-size: 1.5em;
+    color: #dc3545;
+    margin: 5% 9%;
+}

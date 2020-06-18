@@ -1,0 +1,41 @@
+  b {
+        color:#d7172f;
+    };
+
+    body {
+      background-color: #0f437f;
+    }
+
+
+    .form-signin img.logo{
+      width: 100%;
+      height: auto;
+      padding: 10% 15%; 
+    }
+  
+    .form-signin h4{
+      font-size: 1em;
+      color:#d7172f;
+      padding: 4% 1%;
+    }
+  
+    .form-signin button{
+      background-color:  #0f437f;
+    }
+
+    .container i{
+      color: #d7172f;
+      font-size: 2em;
+      margin-top: 50%;
+    }
+  
+    .container h2 {
+      position: absolute;
+      right: 0;
+      top: 50%;
+      right: 8%;
+      font-size: 1.45em;
+    }
+
+    
+  
